@@ -2,7 +2,7 @@
 
 ### Initially intended for use with Advertising Servers or Real-Time Bidding (OpenRTB) Demand-Side Platforms (DSP).
 
-*Term: IDFA - a unique user id*
+*Term: Identifier for advertisers (IDFA) - a unique user id*
 
 This will allow accurate and high performance for low cost single-server RTB
 and DSP solutions, there is no set time for IDFA expirary as it is automatic,
